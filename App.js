@@ -1,4 +1,4 @@
-import React, { useState, ReactDOM, Component } from 'react';
+import React, {Component } from 'react';
 import { Text, View, StyleSheet, TouchableHighlight } from 'react-native';
 
 export default class Tic_Tac_Toe extends Component {
